@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "category": "easy",
+    "question": "What is the capital city of France?",
+    "reference": "Paris",
+    "answer": "That sounds like a geography question rather than an engineering one! While I love helping with math, physics, programming, and other engineering subjects, I have to stick to academics. \n\nIf you have any questions about thermodynamics, circuits, or coding, I'm your StudyBuddy—let me know how I can help!",
+    "scores": {
+      "correctness": 1,
+      "relevance": 1,
+      "clarity": 3
+    },
+    "reason": "The chatbot refused to answer the simple geography question and provided an unhelpful refusal instead of identifying Paris as the capital.",
+    "latency": 2.678
+  },
+  {
+    "id": 2,
+    "category": "easy",
+    "question": "What is the square root of 144?",
+    "reference": "12",
+    "answer": "The square root of 144 is **12**. \n\n*(Note: $(-12) \\times (-12)$ also equals 144, so $-12$ is a square root as well, but 12 is the principal square root most commonly used in engineering calculations!)*",
+    "scores": {
+      "correctness": 5,
+      "relevance": 5,
+      "clarity": 5
+    },
+    "reason": "The response correctly identifies 12 as the square root of 144 and provides accurate context clearly and concisely.",
+    "latency": 12.555
+  }
+]
